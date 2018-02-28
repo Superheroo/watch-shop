@@ -1,0 +1,38 @@
+{
+	"carousel":[
+		{
+			"url":"",
+			"pic":"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1288919575,2978642811&fm=27&gp=0.jpg"
+		},
+		{
+			"url":"",
+			"pic":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1766504166,4265394755&fm=27&gp=0.jpg"
+		},
+		{
+			"url":"",
+			"pic":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2783878403,4036888290&fm=27&gp=0.jpg"
+		},
+		{
+			"url":"",
+			"pic":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1619570386,3091698925&fm=27&gp=0.jpg"
+		},
+		{
+			"url":"",
+			"pic":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3757031804,1342901783&fm=27&gp=0.jpg"
+		},
+	],
+	"goods":[
+		{
+			"sale":"1235",
+			"title":"新款罗西尼手表男潮自动机械男表 正品",
+			"price":"￥1289.00",
+			"pic":"https://img.alicdn.com/bao/uploaded/i1/762526146/TB1h0Fya1uSBuNjSsziXXbq8pXa_!!0-item_pic.jpg_b.jpg"
+		},
+		{
+			"sale":"2356",
+			"title":"天王表正品男表防水自动机械表 钢带男",
+			"price":"￥1149.00",
+			"pic":"https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg"
+		}
+	]
+}
