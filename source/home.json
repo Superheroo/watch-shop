@@ -1,5 +1,6 @@
 {
-    "carousel": {
+    "carousel":
+    {
         "pic1": "http://img2.imgtn.bdimg.com/it/u=3596013855,1973097363&fm=27&gp=0.jpg",
 
         "pic2": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1766504166,4265394755&fm=27&gp=0.jpg",
@@ -8,19 +9,57 @@
 
         "pic4": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1619570386,3091698925&fm=27&gp=0.jpg",
 
-        "pic5": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3757031804,1342901783&fm=27&gp=0.jpg" 
-},
+        "pic5": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3757031804,1342901783&fm=27&gp=0.jpg"
+    },
     "goods": [
     {
+        "id": "001",
         "sale": "1235",
         "title": "新款罗西尼手表男潮自动机械男表 正品",
         "price": "￥1289.00",
-        "pic": "https://img.alicdn.com/bao/uploaded/i1/762526146/TB1h0Fya1uSBuNjSsziXXbq8pXa_!!0-item_pic.jpg_b.jpg"
-    },
+        "freight": "包邮",
+        "pic": "https://img.alicdn.com/bao/uploaded/i1/762526146/TB1h0Fya1uSBuNjSsziXXbq8pXa_!!0-item_pic.jpg_b.jpg",
+        },
     {
+        "id": "002",
         "sale": "2356",
         "title": "天王表正品男表防水自动机械表 钢带男",
         "price": "￥1149.00",
+        "freight": "包邮",
         "pic": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg"
-    }]
+    },
+    {
+        "id": "003",
+        "sale": "2323",
+        "title": "天王机械男表正品商务品质日历防水自动机械钢带男士手表分期购",
+        "price": "￥1349.00",
+        "freight": "包邮",
+        "pic": "https://img.alicdn.com/bao/uploaded/i4/2568353955/TB1bMFCbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_b.jpg"
+    },
+    {
+        "id": "004",
+        "sale": "1546",
+        "title": "海鸥手表男防水官方正品时尚镂空自动机械表日历夜光真皮机械表",
+        "price": "￥1199.00",
+        "freight": "包邮",
+        "pic": "https://img.alicdn.com/bao/uploaded/i4/2151638273/TB1P2o3aASWBuNjSszdXXbeSpXa_!!0-item_pic.jpg_b.jpg"
+    },
+     {
+        "id": "005",
+        "sale": "1235",
+        "title": "罗宾尼飞轮镂空手表男士全自动机械表大表盘时尚皮带男表正品防水",
+        "price": "￥1780.00",
+        "freight": "包邮",
+        "pic": "https://img.alicdn.com/bao/uploaded/i1/2086791699/TB1a2xtePgy_uJjSZTEXXcYkFXa_!!0-item_pic.jpg_b.jpg",
+        },
+    {
+        "id": "006",
+        "sale": "2356",
+        "title": "雷诺情侣手表机械表对表镂空真皮防水情侣表一对男女情人节礼物",
+        "price": "￥1899.00",
+        "freight": "包邮",
+        "pic": "https://img.alicdn.com/bao/uploaded/i1/766294303/TB1NMI2XMaTBuNjSszfXXXgfpXa_!!2-item_pic.png_b.jpg"
+    }
+
+]
 }
