@@ -11,6 +11,12 @@
 
         "pic5": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3757031804,1342901783&fm=27&gp=0.jpg"
     },
+    "brand":{
+    	"pic1":"https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/908b00c8f0385bb1dfbe54703b214fda_121_121.jpg",
+    	"pic2":"https://ss1.bdstatic.com/-0U0bXSm1A5BphGlnYG/tam-ogel/b4787bfc670b99d95be738a0fa7d34c0_121_121.jpg",
+    	"pic3":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3374954812,1570995924&fm=27&gp=0.jpg",
+    	"pic4":"https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/1db115462cb837533fb0812b31f4eb82_121_121.jpg"
+    },
     "goods": [
         {
             "id": "001",
