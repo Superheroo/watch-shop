@@ -1,14 +1,19 @@
 {
-    "goods": [
+    "goods1": [
     {
         "id": "001",
         "sale": "1235",
-        "title": "新款罗西尼手表男潮自动机械男表 正品",
+        "title": "新款罗西尼手表男潮自动机械男表 正品防水皮带时尚男士表616725",
         "price": "￥1289.00",
         "freight": "包邮",
-        "pic": "https://img.alicdn.com/bao/uploaded/i1/762526146/TB1h0Fya1uSBuNjSsziXXbq8pXa_!!0-item_pic.jpg_b.jpg",
-        "goods-detail":
-        {
+        "img":{
+            "pic1": "https://img.alicdn.com/bao/uploaded/i1/762526146/TB1h0Fya1uSBuNjSsziXXbq8pXa_!!0-item_pic.jpg_b.jpg",
+            "pic2": "https://img.alicdn.com/imgextra/i2/762526146/TB2CIOdh_AKL1JjSZFCXXXFspXa_!!762526146.jpg_60x60q90.jpg",
+            "pic3": "https://img.alicdn.com/imgextra/i1/762526146/TB2_hiCpdnJ8KJjSszdXXaxuFXa_!!762526146.jpg_60x60q90.jpg",
+            "pic4": "https://img.alicdn.com/imgextra/i3/762526146/TB2TBHXXQjlJKJjy0FaXXbzjXXa_!!762526146.jpg_60x60q90.jpg",
+            "pic5": "https://img.alicdn.com/imgextra/i3/762526146/TB2Hz8PXk7mBKNjSZFyXXbydFXa_!!762526146.jpg_60x60q90.jpg"
+        },
+        "goods-detail":{
             "pic1": "https://img.alicdn.com/imgextra/i1/762526146/TB2gZwSaGagSKJjy0FbXXa.mVXa_!!762526146.jpg",
             "pic2": "https://img.alicdn.com/imgextra/i4/762526146/TB2vlKfeYsTMeJjSszhXXcGCFXa_!!762526146.jpg",
             "pic3": "https://img.alicdn.com/imgextra/i1/762526146/TB2UaX_afNNTKJjSspfXXbXIFXa_!!762526146.jpg",
@@ -33,14 +38,23 @@
             "pic22": "https://img.alicdn.com/imgextra/i3/762526146/TB2360_eYsTMeJjy1zeXXcOCVXa_!!762526146.jpg",
             "pic23": "https://gdp.alicdn.com/imgextra/i3/762526146/TB2DirNXXkoBKNjSZFEXXbrEVXa_!!762526146.jpg"
         }
-    },
-    {
+    }],
+    "goods2":[
+        {
         "id": "002",
         "sale": "2356",
         "title": "天王表正品男表防水自动机械表 钢带男",
         "price": "￥1149.00",
         "freight": "包邮",
-        "pic": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg"
-    }]
+        "img":{
+            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg"
+        }
+
+    }
+    ]
 
 }
