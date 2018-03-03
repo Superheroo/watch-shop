@@ -11,13 +11,33 @@
 
         "pic5": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3757031804,1342901783&fm=27&gp=0.jpg"
     },
-    "brand":{
-    	"pic1":"https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/908b00c8f0385bb1dfbe54703b214fda_121_121.jpg",
-    	"pic2":"https://ss1.bdstatic.com/-0U0bXSm1A5BphGlnYG/tam-ogel/b4787bfc670b99d95be738a0fa7d34c0_121_121.jpg",
-    	"pic3":"https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/7432c4fb0f0cc9815440e103f41565d8_121_121.jpg",
-    	"pic4":"https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/1db115462cb837533fb0812b31f4eb82_121_121.jpg",
-    	"pic5":"https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/d43da3272b76516831b7960f9c554ef5_121_121.jpg"
-    },
+    "brand": [
+        {
+            "name": "百达翡丽",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/908b00c8f0385bb1dfbe54703b214fda_121_121.jpg",
+            "int": "创立于1839年5月1日的百达翡丽(Patek Philippe)是瑞士日内瓦的家族独立经营制表商,历史悠久,工艺精湛,在设计、生产直至装配的整体过程中享有全面的创新自由,打造出令世人交口称赞的钟表杰作。"
+        },
+        {
+            "name": "劳力士",
+            "pic": "https://ss1.bdstatic.com/-0U0bXSm1A5BphGlnYG/tam-ogel/b4787bfc670b99d95be738a0fa7d34c0_121_121.jpg",
+            "int": "劳力士（Rolex）是瑞士著名的手表制造商，前身为Wilsdorf and Davis（W&D）公司，由德国人汉斯·威斯多夫（Hans Wilsdof）与英国人戴维斯（Alfred Davis）于1905年在伦敦合伙经营。1908年由汉斯·威斯多夫在瑞士的拉夏德芬（La Chaux-de-Fonds）注册更名为ROLEX。经过一个世纪的发展，总部设在日内瓦的劳力士公司已拥有19个分公司，在世界主要的大都市有24个规模颇大的服务中心，年产手表45万只左右，成为市场占有量甚大的名牌手表之一。"
+        },
+        {
+            "name": "宝玑",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/7432c4fb0f0cc9815440e103f41565d8_121_121.jpg",
+            "int": "宝玑（Breguet）是斯沃琪集团 (Swatch Group)品牌，创始于1775年，距今已有240年的历史。从18世纪开始，宝玑品牌一直致力于为皇室成员以及各个领域的杰出人物提供作品和服务。在业界宝玑有“表王”的称号，同时也有“现代制表之父”的美誉。因为宝玑发明了业界超过70% 的技术，其最具代表性的三大复杂功能的发明有陀飞轮、万年历和三问音簧。在这个世界上任何一个品牌的机械腕表，无论是手动上弦还是自动上弦，至少有两项技术、发明、专利、装置来自于宝玑。如果把属于宝玑的部分拿走，没有一块腕表能够正常运行。 每一块机械腕表上都有宝玑的影子，因此宝玑是最纯粹的高级制表师品牌。"
+        },
+        {
+            "name": "伯爵",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/7432c4fb0f0cc9815440e103f41565d8_121_121.jpg",
+            "int":"1874年，PIAGET伯爵由年仅19岁的乔治·爱德华·伯爵（Georges Edouard Piaget）创立，至今PIAGET伯爵仍以其为名承袭并开创伯爵的创作历史。从1874年诞生以来，伯爵一直秉承“永远做得比要求的更好”的品牌精神，将精湛工艺与无限创意融入每一件作品中，同时优先发展创意和对细节的追求，将腕表与珠宝的工艺完全融合在一起。创立伊始，伯爵专注于腕表机芯的设计和生产"
+        },
+        {
+            "name": "江诗丹顿",
+            "pic": "https://ss0.bdstatic.com/-0U0bnSm1A5BphGlnYG/tam-ogel/d43da3272b76516831b7960f9c554ef5_121_121.jpg",
+            "int":"江诗丹顿（Vacheron Constantin），世界最著名钟表品牌之一，1755年创立于瑞士日内瓦，为世界最古老最早的钟表制造厂，也是世界最著名的表厂之一。江诗丹顿传承了瑞士的传统制表精华，未曾间断，同时也创新了许多制表技术，对制表业有莫大的贡献。江诗丹顿在整个二十世纪推出了多款令人永世难忘的设计。从简约典雅的款式到精雕细琢的复杂设计，从日常佩戴的款式到名贵的钻石腕表，每一款均代表了瑞士高级钟表登峰造极的制表工艺，体现了江诗丹顿在世界钟表业界卓尔不群的地位，及其对技术和美学的追求。历经两个半世纪的风风雨雨，江诗丹顿至今依然是钟表业界最负盛名的品牌之一。"
+        },
+    ],
     "goods": [
         {
             "id": "001",
