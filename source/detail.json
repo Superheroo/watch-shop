@@ -1,5 +1,6 @@
 {
-    "goods1": [
+    "goods1":
+     // [
     {
         "id": "001",
         "sale": "1235",
@@ -38,7 +39,8 @@
             "pic22": "https://img.alicdn.com/imgextra/i3/762526146/TB2360_eYsTMeJjy1zeXXcOCVXa_!!762526146.jpg",
             "pic23": "https://gdp.alicdn.com/imgextra/i3/762526146/TB2DirNXXkoBKNjSZFEXXbrEVXa_!!762526146.jpg"
         }
-    }]
+    }
+// ]
     // "goods2":[
     //     {
     //     "id": "002",
