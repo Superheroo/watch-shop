@@ -38,23 +38,23 @@
             "pic22": "https://img.alicdn.com/imgextra/i3/762526146/TB2360_eYsTMeJjy1zeXXcOCVXa_!!762526146.jpg",
             "pic23": "https://gdp.alicdn.com/imgextra/i3/762526146/TB2DirNXXkoBKNjSZFEXXbrEVXa_!!762526146.jpg"
         }
-    }],
-    "goods2":[
-        {
-        "id": "002",
-        "sale": "2356",
-        "title": "天王表正品男表防水自动机械表 钢带男",
-        "price": "￥1149.00",
-        "freight": "包邮",
-        "img":{
-            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
-            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
-            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
-            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
-            "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg"
-        }
+    }]
+    // "goods2":[
+    //     {
+    //     "id": "002",
+    //     "sale": "2356",
+    //     "title": "天王表正品男表防水自动机械表 钢带男",
+    //     "price": "￥1149.00",
+    //     "freight": "包邮",
+    //     "img":{
+    //         "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+    //         "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+    //         "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+    //         "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg",
+    //         "pic1": "https://img.alicdn.com/bao/uploaded/i1/1125378539/TB1bpxbaWSWBuNjSsrbXXa0mVXa_!!0-item_pic.jpg_b.jpg"
+    //     }
 
-    }
-    ]
+    // }
+    // ]
 
 }
